@@ -1,0 +1,2 @@
+# YoloXJson2Text
+yoloXjson形式からyoloText形式に変換するスクリプト。
